@@ -185,7 +185,8 @@ http://localhost:5173
 
 ## Dashboard
 
->![Uploading Screenshot 2026-07-05 072913.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-07-05 072913" src="https://github.com/user-attachments/assets/b090dd2d-f246-4307-98ee-a963d411c5ed" />
+
 
 
 
